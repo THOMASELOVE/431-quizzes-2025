@@ -2,7 +2,10 @@
 
 ## Changes since Class 14 ended
 
-- 2025-10-17 I had somehow provided the (slightly) wrong **q05.rds**. The originally posted one had two variables, named `subject` and `result`. The correct one contains two variables, named `subject` and `score`. Now, the new version of [q05.rds is here](https://github.com/THOMASELOVE/431-quizzes-2025/raw/refs/heads/main/quiz1/data/q05.Rds), and on [our 431-data page](https://github.com/THOMASELOVE/431-data), and in our [Shared Drive](https://thomaselove.github.io/431-2025/google.html). Changing to this corrected version of the **q05.rds** should not change your answer to Question 5 at all, but it will work with the published code properly without you having to edit the variable name. Editing the name of the variable from `result` to `score` is **not** one of the two necessary changes we want you to list in your response to Question 5.
+1. Posted `2025-10-17` regarding **Question 5**: 
+    - I had somehow provided the (slightly) wrong **q05.rds**. The originally posted version of the data had two variables, named `subject` and `result`. The correct one contains two variables, named `subject` and `score`. Now, the new version of [q05.rds is here](https://github.com/THOMASELOVE/431-quizzes-2025/raw/refs/heads/main/quiz1/data/q05.Rds), and on [our 431-data page](https://github.com/THOMASELOVE/431-data), and in our [Shared Drive](https://thomaselove.github.io/431-2025/google.html).
+    - Changing to this corrected version of the **q05.rds** file should not change your answer to Question 5 at all, but this new version will work with the published code properly to produce graphs without you having to edit the variable name. Editing the name of the variable from `result` to `score` is **not** one of the two necessary changes we want you to list in your response to Question 5.
+    - Note above was emailed to all students `2025-10-17`, including an attached copy of the corrected **q05.rds** file.
 
 ## What is posted?
 
