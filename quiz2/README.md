@@ -6,10 +6,13 @@
 
 ## Everything you need will be available at 3 PM on 2025-11-20.
 
-1. The complete[^1] [Quiz 2 instructions and questions document (pdf, 43 pages)] will be available by 3 PM.
-2. The Google Form Answer Sheet, where you will provide your responses, is found at <https://bit.ly/431-2025-quiz2-answer-form>.
+1. The complete[^1] [Quiz 2 instructions and questions document (pdf, 43 pages)](431-2025-quiz2-current.pdf) will be available by 3 PM.
+    - The version for the Quiz is specified by the date and time stamp on the first page.
+    - The version of the Quiz 2 instructions provided to you initially is version `2025-11-20 09:33 am`.
+    - Be sure that your PDF has all 43 pages for the Quiz[^1].
+3. The Google Form Answer Sheet, where you will provide your responses, is found at <https://bit.ly/431-2025-quiz2-answer-form>.
     - It is open now, and will remain open until 12:30 PM on Wednesday 2025-12-03.
-3. The data sets relevant to the Quiz are now available.
+4. The data sets relevant to the Quiz are now available.
     - All five Quiz 2 data sets (along with the `Love-431.R` script) are posted to the Quiz 2 folder on our Shared Drive in the data subfolder.
     - The data files are also available on our [431-data page](https://github.com/THOMASELOVE/431-data).
     - The data sets used in Quiz 2 are:
@@ -19,7 +22,7 @@
         - `wtchg1.xpt`
         - `wtchg2.Rds`
         - We'll also use the `survey15_2014_to_2025.csv` file which is found [at this link](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/survey15_2014_to_2025.csv). A PDF of the survey itself is [found on our Class 2 README](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/431_surveyhandout_1perstudent_2025-09-04.pdf).
-4. There are two chunks of code that you should copy and paste into RStudio as you are preparing your responses.
+5. There are two chunks of code that you should copy and paste into RStudio as you are preparing your responses.
 
 - The first code chunk loads the R packages for the Quiz. 
     - It assumes that you have the `431-Love.R` script in a data subdirectory below your R Project for this Quiz.
