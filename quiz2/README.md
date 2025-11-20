@@ -11,7 +11,7 @@
     - It is open now, and will remain open until 12:30 PM on Wednesday 2025-12-03.
 3. The data sets relevant to the Quiz are now available.
     - All five Quiz 2 data sets (along with the `Love-431.R` script) are posted to the Quiz 2 folder on our Shared Drive in the data subfolder.
-    - They are also available on our [431-data page](https://github.com/THOMASELOVE/431-data).
+    - The data files are also available on our [431-data page](https://github.com/THOMASELOVE/431-data).
     - The data sets used in Quiz 2 are:
         - `hosp650.csv`
         - `kid_scr.Rds`
