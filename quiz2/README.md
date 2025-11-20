@@ -21,8 +21,8 @@
         - We'll also use the `survey15_2014_to_2025.csv` file which is found [at this link](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/survey15_2014_to_2025.csv). A PDF of the survey itself is [found on our Class 2 README](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/431_surveyhandout_1perstudent_2025-09-04.pdf).
 4. There are two chunks of code that you should copy and paste into RStudio as you are preparing your responses.
 
-The first code chunk loads the R packages for the Quiz. 
-    - It assumes that you have the data (including the 431-Love.R script) in a data subdirectory below your R Project for this Quiz.
+- The first code chunk loads the R packages for the Quiz. 
+    - It assumes that you have the `431-Love.R` script in a data subdirectory below your R Project for this Quiz.
 
 ```
 #| message: false
