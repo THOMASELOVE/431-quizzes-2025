@@ -56,7 +56,7 @@ theme_set(theme_bw())
 knitr::opts_chunk$set(comment = NA)
 ```
 
-- The second bit of code you'll want is described in the Setup for Questions 3-16. Here it is.
+- The second bit of code you'll want is described in the instructions as part of the Setup for Questions 3-16. Here it is.
 
 ```
 url1 <- "https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/survey15_2014_to_2025.csv"
