@@ -1,5 +1,11 @@
 # Instructions and Materials for Quiz 2
 
+## Changes and Comments after Class 23
+
+**Note**: If I need to make changes or provide comments on the Quiz after class 23 on 2025-11-20, that information will be posted here **and** emailed to all students.
+
+----
+
 ## Getting Help on the Quiz
 
 1. If you need clarification on a Quiz question, you have exactly one way of getting help, and that is to send email to me at `Thomas` dot `Love` at `case` dot `edu`.
@@ -8,13 +14,9 @@
     - I will check my email on Thursday 2025-11-20, Friday 2025-11-21, Saturday 2025-11-22 and then not again until Sunday 2025-11-30.
     - This means that from Sunday 2025-11-23 through Saturday 2025-11-29, your emailed questions about the Quiz will sit patiently and await my return.
 
-## Changes and Comments after Class 23
-
-**Note**: If I need to make changes or provide comments on the Quiz after class 23 on 2025-11-20, that information will be posted here **and** emailed to all students.
-
 ----
 
-## Everything you need will be available at 3 PM on 2025-11-20.
+## Everything you need will be linked here by 3 PM on 2025-11-20.
 
 1. The complete [Quiz 2 instructions and questions document (pdf, 43 pages)](431-2025-quiz2-current.pdf) will be available by 3 PM.
     - The Quiz 2 instructions provided is version `2025-11-20 09:33 am`, as specified by the date and time stamp on the first page.
