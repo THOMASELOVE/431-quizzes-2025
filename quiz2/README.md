@@ -4,6 +4,8 @@
 
 **Note**: If I need to make changes or provide comments on the Quiz after class 23 on 2025-11-20, that information will be posted here **and** emailed to all students.
 
+----
+
 ## Everything you need will be available at 3 PM on 2025-11-20.
 
 1. The complete[^1] [Quiz 2 instructions and questions document (pdf, 43 pages)](431-2025-quiz2-current.pdf) will be available by 3 PM.
