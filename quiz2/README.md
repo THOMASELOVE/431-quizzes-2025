@@ -1,5 +1,13 @@
 # Instructions and Materials for Quiz 2
 
+## Getting Help on the Quiz
+
+1. If you need clarification on a Quiz question, you have exactly one way of getting help, and that is to send email to me at `Thomas` dot `Love` at `case` dot `edu`.
+2. During the Quiz period (3 PM 2025-11-20 through 12:30 PM 2025-12-03) we will not answer questions about the Quiz in TA office hours or in person.
+3. WARNING! I will be away for a week during the break!
+    - I will check my email on Thursday 2025-11-20, Friday 2025-11-21, Saturday 2025-11-22 and then not again until Sunday 2025-11-30.
+    - This means that from Sunday 2025-11-23 through Saturday 2025-11-29, your emailed questions about the Quiz will sit patiently and await my return.
+
 ## Changes and Comments after Class 23
 
 **Note**: If I need to make changes or provide comments on the Quiz after class 23 on 2025-11-20, that information will be posted here **and** emailed to all students.
