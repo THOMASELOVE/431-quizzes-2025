@@ -69,4 +69,4 @@ surv15 <- read_csv(url1, show_col_types = FALSE) |>
 
 Thanks, and good luck!
  
-[^1]: It's a good idea to read the entire document, especially the footnotes, and page 40.
+[^1]: It's a good idea to read the entire document, especially the footnotes, and including page 40.
