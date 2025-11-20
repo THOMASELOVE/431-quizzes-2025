@@ -2,7 +2,7 @@
 
 ## Several things are now available.
 
-1. The complete [Quiz 2 instructions and questions document (pdf, 43 pages)] will be available by 3 PM.
+1. The complete[^1] [Quiz 2 instructions and questions document (pdf, 43 pages)] will be available by 3 PM.
 2. The Google Form Answer Sheet, where you will provide your responses, will be available by 3 PM.
 3. The data sets relevant to the Quiz will be available by 3 PM.
     - All of the files are posted to the Quiz 2 folder on our Shared Drive in the data subfolder.
@@ -66,4 +66,7 @@ surv15 <- read_csv(url1, show_col_types = FALSE) |>
          smoke = fct_recode(factor(smoke), "Never" = "1",
                             "Former" = "2", "Current" = "3"))
 ```
+
+Thanks, and good luck!
  
+[^1]: It's a good idea to read the entire document, especially the footnotes, and page 40.
