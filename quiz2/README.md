@@ -9,8 +9,7 @@
 ## Everything you need will be available at 3 PM on 2025-11-20.
 
 1. The complete[^1] [Quiz 2 instructions and questions document (pdf, 43 pages)](431-2025-quiz2-current.pdf) will be available by 3 PM.
-    - The version for the Quiz is specified by the date and time stamp on the first page.
-    - The version of the Quiz 2 instructions provided to you initially is version `2025-11-20 09:33 am`.
+    - The Quiz 2 instructions provided is version `2025-11-20 09:33 am`, as specified by the date and time stamp on the first page.
     - Be sure that your PDF has all 43 pages for the Quiz[^1].
 2. The Google Form Answer Sheet, where you will provide your responses, is found at <https://bit.ly/431-2025-quiz2-answer-form>.
     - It is open now, and will remain open until 12:30 PM on Wednesday 2025-12-03.
