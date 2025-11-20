@@ -1,20 +1,21 @@
 # Instructions and Materials for Quiz 2
 
-## Several things are now available.
+## Several things are now available. Everything
 
 1. The complete[^1] [Quiz 2 instructions and questions document (pdf, 43 pages)] will be available by 3 PM.
-2. The Google Form Answer Sheet, where you will provide your responses, will be available by 3 PM.
-3. The data sets relevant to the Quiz will be available by 3 PM.
-    - All of the files are posted to the Quiz 2 folder on our Shared Drive in the data subfolder.
-    - They are also available on our 431-data page.
-    - The Quiz 2 data sets are:
+2. The Google Form Answer Sheet, where you will provide your responses, is found at <https://bit.ly/431-2025-quiz2-answer-form>.
+    - It is open now, and will remain open until 12:30 PM on Wednesday 2025-12-03.
+3. The data sets relevant to the Quiz are now available.
+    - All five Quiz 2 data sets are posted to the Quiz 2 folder on our Shared Drive in the data subfolder.
+    - They are also available on our [431-data page](https://github.com/THOMASELOVE/431-data).
+    - The data sets used in Quiz 2 are:
         - hosp650.csv
         - kid_scr.Rds
         - rheuma.xlsx
         - wtchg1.xpt
         - wtchg2.Rds
         - and again, we'll use the `survey15_2014_to_2025.csv` file which is found [at this link](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/survey15_2014_to_2025.csv). A PDF of the survey itself is [found on our Class 2 README](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/431_surveyhandout_1perstudent_2025-09-04.pdf).
-4. There are two bits of code that you should copy and paste into RStudio as you are preparing your responses.
+5. There are two bits of code that you should copy and paste into RStudio as you are preparing your responses.
 
 The first loads the R packages for the Quiz.
 
