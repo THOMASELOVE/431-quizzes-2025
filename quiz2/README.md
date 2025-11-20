@@ -16,7 +16,7 @@
 
 ----
 
-## Everything you need will be linked here by 3 PM on 2025-11-20.
+## Everything you need is ready to go.
 
 1. The complete [Quiz 2 instructions and questions document (pdf, 43 pages)](431-2025-quiz2-current.pdf) is available.
     - The current version is `2025-11-20 10:04 am`, as specified by the date and time stamp on the first page.
