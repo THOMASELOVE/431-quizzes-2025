@@ -9,12 +9,12 @@
     - All five Quiz 2 data sets are posted to the Quiz 2 folder on our Shared Drive in the data subfolder.
     - They are also available on our [431-data page](https://github.com/THOMASELOVE/431-data).
     - The data sets used in Quiz 2 are:
-        - hosp650.csv
-        - kid_scr.Rds
-        - rheuma.xlsx
-        - wtchg1.xpt
-        - wtchg2.Rds
-        - and again, we'll use the `survey15_2014_to_2025.csv` file which is found [at this link](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/survey15_2014_to_2025.csv). A PDF of the survey itself is [found on our Class 2 README](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/431_surveyhandout_1perstudent_2025-09-04.pdf).
+        - `hosp650.csv`
+        - `kid_scr.Rds`
+        - `rheuma.xlsx`
+        - `wtchg1.xpt`
+        - `wtchg2.Rds`
+        - We'll also use the `survey15_2014_to_2025.csv` file which is found [at this link](https://raw.githubusercontent.com/THOMASELOVE/431-data/refs/heads/main/data/survey15_2014_to_2025.csv). A PDF of the survey itself is [found on our Class 2 README](https://github.com/THOMASELOVE/431-classes-2025/blob/main/class02/431_surveyhandout_1perstudent_2025-09-04.pdf).
 5. There are two bits of code that you should copy and paste into RStudio as you are preparing your responses.
 
 The first loads the R packages for the Quiz.
